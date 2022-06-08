@@ -1,4 +1,4 @@
-hiii
-this is newfile
+hiii #dev2 doesnt know about the changes of dev1
+this is newfile #dev2 changing second line
 to observe conflicts
-ok
+ok #also 4th line by dev2

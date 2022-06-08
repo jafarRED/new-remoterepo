@@ -1,7 +1,7 @@
-class hello {
+class hello { #by dev2
         public static void main (String [] args ) {
                 System.out.println("hello")
         }
 
-}
+} #dev2 changes are mandatory
 

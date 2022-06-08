@@ -1,6 +1,6 @@
 class hello { #by dev2
-        public static void main (String [] args ) {
-                System.out.println("hello")
+        public static void ain (String [] args ) {
+                System.out.println("hello from dev1")
         }
 
 } #dev2 changes are mandatory
